@@ -1,4 +1,5 @@
 # Cybersecurity and Hacking Notes
+<img src="https://github.com/Mr1llusion/Cybersecurity-Notes/assets/144902381/9df9c538-f83f-47af-ba70-21f699fd7b68" alt="Shell Terminal" height="620"/>
 
 Welcome to my collection of cybersecurity and ethical hacking notes! This repository is a work in progress, and I'm continuously adding, updating, and improving the content to provide valuable resources for the community.
 
